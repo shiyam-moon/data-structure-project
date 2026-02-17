@@ -1,4 +1,5 @@
 Data structures , their areas of application and reasons for their use.
+
 1.Linear data structures
 •	Arrays
 Applications;
